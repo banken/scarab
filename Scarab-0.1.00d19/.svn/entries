@@ -1,171 +1,0 @@
-8
-
-dir
-3677
-https://svn6.cvsdude.com/dicarlolab/MonkeyWorks/trunk/Scarab/Scarab-0.1.00d19
-https://svn6.cvsdude.com/dicarlolab/MonkeyWorks
-
-
-
-2008-09-17T16:56:34.717436Z
-3044
-bkennedy
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-15980662-76f2-0310-8555-e334231c6679
-
-configure
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-c42e43ff32e06ce679ef057d6ea992e3
-2005-03-21T19:50:52.721935Z
-9
-paul
-has-props
-
-java
-dir
-
-python
-dir
-
-Makefile.in
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-69213adbb3c7b5db40494763c3cf0d12
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-c
-dir
-
-config.log
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-ccb98a499b1adf700b56bca7b4951204
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-configure.in
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-350f4293fa60e7e2ab95bba6d64614e0
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-ChangeLog
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-898b10cbf3ac73689f73d5b46490a4f1
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-config.status
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-a2979a5960b4d3ff257e63994ac390e9
-2005-03-21T19:50:52.721935Z
-9
-paul
-has-props
-
-README
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-c43a68ee4555dac901ce28372ae3cbf6
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-.release
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-18b322c3abe27d410832349408935387
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-tests
-dir
-
-perl
-dir
-
-doc
-dir
-
-config.cache
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-50aa915a396ba7b9db526e3180d1b5a8
-2005-03-21T19:50:52.721935Z
-9
-paul
-
-LWProtocols.org
-dir
-
-install-sh
-file
-
-
-
-
-2008-02-21T17:49:23.000000Z
-e2f7509e56ca4245d80878e106226786
-2005-03-21T19:50:52.721935Z
-9
-paul
-
